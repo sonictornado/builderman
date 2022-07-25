@@ -1,7 +1,7 @@
 
 
 from imports import *
-from vars import *
+from builderman.code import *
 
 # This file contains all of the functions that the bot uses.
 
